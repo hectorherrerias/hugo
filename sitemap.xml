@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/</loc>
     <lastmod>2022-09-26T20:16:43+02:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/posts/html-css/</loc>
     <lastmod>2022-09-26T20:16:43+02:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/proyectos/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/posts/</loc>
     <lastmod>2022-09-26T20:16:43+02:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/posts/powershell/</loc>
+    <lastmod>2022-09-26T20:16:43+02:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/authors/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>calm-croissant-9aae42.netlify.app/series/</loc>
+  </url><url>
+    <loc>calm-croissant-9aae42.netlify.app/tags/</loc>
   </url>
 </urlset>
