@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hector</title>
-    <link>calm-croissant-9aae42.netlify.app/posts/</link>
+    <link>https://calm-croissant-9aae42.netlify.app/posts/</link>
     <description>Recent content in Posts on Hector</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Sep 2022 20:16:43 +0200</lastBuildDate><atom:link href="calm-croissant-9aae42.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 20:16:43 +0200</lastBuildDate><atom:link href="https://calm-croissant-9aae42.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML Y CSS</title>
-      <link>calm-croissant-9aae42.netlify.app/posts/html-css/</link>
+      <link>https://calm-croissant-9aae42.netlify.app/posts/html-css/</link>
       <pubDate>Mon, 26 Sep 2022 20:16:43 +0200</pubDate>
       
-      <guid>calm-croissant-9aae42.netlify.app/posts/html-css/</guid>
+      <guid>https://calm-croissant-9aae42.netlify.app/posts/html-css/</guid>
       <description>HTML Y CSS Link to heading Página web con menu vertical Link to heading &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;meta http-equiv=&amp;#34;X-UA-Compatible&amp;#34; content=&amp;#34;IE=edge&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.0&amp;#34;&amp;gt; &amp;lt;title&amp;gt;Menú&amp;lt;/title&amp;gt; &amp;lt;style&amp;gt; #cuerposerrano{ background-color: aquamarine } .vertical-menu { width: 200px; border: 5px solid rgb(97, 97, 97); position: absolute; bottom: 545px; } .vertical-menu a { background-color: rgb(163, 163, 163); color: rgb(0, 0, 0); display: block; padding: 12px; text-decoration: none; } .vertical-menu a:hover { background-color: rgb(77, 77, 77); color:white; } h1{ position: absolute; left: 250px; top: 5px; } #cuadradogrande{ position:relative; top: 70px; left: 220px; padding: 1px 1px; border: blue 5px solid; margin-top: 10px; margin-left: 10px; margin-right: 10px; background-color:rgb(255, 255, 255); width: 950px; height: 115px; } img{ margin-top: -70px; margin-left: 1220px; margin-right: 10px; } &amp;lt;/style&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body id=&amp;#34;cuerposerrano&amp;#34;&amp;gt; &amp;lt;h1&amp;gt;Madrid&amp;lt;/h1&amp;gt; &amp;lt;div class=&amp;#34;vertical-menu&amp;#34;&amp;gt; &amp;lt;a href=&amp;#34;Madrid.</description>
     </item>
     
     <item>
       <title>Powershell</title>
-      <link>calm-croissant-9aae42.netlify.app/posts/powershell/</link>
+      <link>https://calm-croissant-9aae42.netlify.app/posts/powershell/</link>
       <pubDate>Mon, 26 Sep 2022 20:16:43 +0200</pubDate>
       
-      <guid>calm-croissant-9aae42.netlify.app/posts/powershell/</guid>
+      <guid>https://calm-croissant-9aae42.netlify.app/posts/powershell/</guid>
       <description>PowerShell Link to heading Creacion de usuarios Directorio Activo Link to heading foreach($usuario in Get-Content .\usuarios.txt) { $usuario $password = (ConvertTo-SecureString &amp;#34;Alum4dos&amp;#34; -AsPlainText -force) New-ADUSer -Name $usuario -Sam $usuario -Path &amp;#34;OU=asir1,OU=alumnos,DC=andel,DC=local&amp;#34; -AccountPassword $password -Enable $true } Creacion de formulario para creacion de usuarios Link to heading using assembly System.Windows.Forms using namespace System.Windows.Forms class Operacion { [Int]$operacion [String]$nombre #Constructor de la clase Operacion($operacion,$nombre) { $this.operacion = $operacion $this.nombre = $nombre } } # Crear array de objetos Operacion $arrayoperaciones = New-Object System.</description>
     </item>
     
